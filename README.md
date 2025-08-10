@@ -1,4 +1,4 @@
 # SessionKit
 
 ## Class Diagram
-![alt text](https://drive.google.com/file/d/1nQuNFlnWP6SL4nnkWDISBuozMKe9V7bA/view?usp=sharing)
+![alt text](https://i.postimg.cc/G3F9bf8W/Screenshot-2025-08-10-at-11-56-28-PM.png)
