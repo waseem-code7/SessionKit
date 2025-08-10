@@ -1,4 +1,5 @@
 # SessionKit
+A robust session management library for FastAPI that supports Redis-based storage with customizable session configuration. It features secure cookie handling, pluggable ID generation, and optional rolling sessions for flexible state management.
 
 ## Current Version
 0.1
