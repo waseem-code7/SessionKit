@@ -34,3 +34,8 @@ config = config = SessionConfig(
 )
 sessionManager = SessionManager(config)
 ```
+
+## Installation
+```bash
+pip install session-kit
+```
