@@ -5,7 +5,7 @@ A robust session management library for FastAPI that supports Redis-based storag
 0.1
 
 ## Class Diagram
-![alt text](https://i.postimg.cc/G3F9bf8W/Screenshot-2025-08-10-at-11-56-28-PM.png)
+![alt text](https://i.postimg.cc/wThNbVdV/Screenshot-2025-08-11-at-2-16-46-AM.png)
 
 ## Usage
 ```python
