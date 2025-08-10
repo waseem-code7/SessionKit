@@ -18,7 +18,7 @@ class MemoryStore(SessionStore):
         self._expiry: Dict[str, datetime] = {}
 
         self.expiration_loop_interval = expiration_loop_interval # check of expired session every 60 sec
-        self.debug = True
+        self.debug = False
         self.should_delete_expired_sessions = should_delete_expired_sessions
         self.async_cleanup_task = async_cleanup_task
         self.start_cleanup()
