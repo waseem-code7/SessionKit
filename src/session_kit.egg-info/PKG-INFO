@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: session-kit
+Version: 0.1
+Summary: A session management library for python
+Author-email: Mohammed Waseem <mohammedwaseem2601@gmail.com>
+Project-URL: Homepage, https://github.com/waseem-code7/SessionKit
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: starlette==0.47.2
+Requires-Dist: redis[hiredis]==3.2.1
+Dynamic: license-file
+
+# SessionKit
