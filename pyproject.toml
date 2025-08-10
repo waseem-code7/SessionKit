@@ -2,3 +2,14 @@
 name="session-kit"
 version=0.1
 dependencies=["starlette==0.47.2"]
+authors = [
+  { name="Mohammed Waseem", email="mohammedwaseem2601@gmail.com" }
+]
+description = "A session management library for python"
+readme = "README.md"
+requires-python = ">=3.9"
+
+[project.urls]
+Homepage = "https://github.com/waseem-code7/SessionKit"
+
+
