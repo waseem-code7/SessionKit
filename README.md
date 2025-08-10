@@ -39,7 +39,7 @@ config = config = SessionConfig(
 sessionManager = SessionManager(config)
 ```
 
-Use session object like a dictionary
+Use session object just like a dictionary
 ```python
 @router.post("/v1/login", status_code=status.HTTP_200_OK)
 def login(request: Request, form_data: OAuth2PasswordRequestForm = Depends(),  auth_service: AuthService = Depends(get_auth_service)):
