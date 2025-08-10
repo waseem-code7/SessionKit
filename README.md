@@ -32,7 +32,7 @@ config = config = SessionConfig(
     cookie_secure=True,  # Cookie only sent over HTTPS
     cookie_httponly=True,  # Cookie not accessible via JavaScript
     cookie_samesite="lax",  # Controls cross-site cookie behavior
-    rolling=False,  # Whether to reset expiry on every request
+    rolling=False,  # Whether to reset expiry on every request (adds increase_interval_on_touch to exipiry time)
     increase_interval_on_touch=10000,  # Interval for extending TTL on touch (if rolling is True)
     save_uninitialized=False  # Save new sessions that are unmodified
 )
