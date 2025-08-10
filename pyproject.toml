@@ -1,0 +1,4 @@
+[project]
+name="session-kit"
+version=0.1
+dependencies=["starlette==0.47.2"]
