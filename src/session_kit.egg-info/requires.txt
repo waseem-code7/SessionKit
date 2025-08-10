@@ -1,0 +1,2 @@
+starlette==0.47.2
+redis[hiredis]==3.2.1

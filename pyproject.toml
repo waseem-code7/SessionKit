@@ -1,7 +1,7 @@
 [project]
 name="session-kit"
-version=0.1
-dependencies=["starlette==0.47.2"]
+version="0.1"
+dependencies=["starlette==0.47.2", "redis[hiredis]==3.2.1"]
 authors = [
   { name="Mohammed Waseem", email="mohammedwaseem2601@gmail.com" }
 ]
